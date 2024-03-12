@@ -1,5 +1,1 @@
-if(armstrong == original){
-    //     cout<<"armstrong is true";
-    // }else{
-    //     cout<<"armstrong is false";
-    // }
+/(fact(r) * fact(n-r))
